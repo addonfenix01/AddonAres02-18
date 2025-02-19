@@ -4,11 +4,21 @@
 
     
 <channel>
-<name>[COLOR green]===[/COLOR] [COLOR red]Filmes +18 Categorias.[COLOR red]===[/COLOR]</name>
+<name>[COLOR green]===[/COLOR] [COLOR red]Filmes +18[COLOR red]===[/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>[COLOR red] Sejam Bem vindos ao ADDON THE ARES ADULTOS [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/AddonAres02-18/refs/heads/main/filmes%2B18.xml</externallink>
 </channel>
+
+<channel>
+<name>[COLOR green]===[/COLOR] [COLOR red]Filmes +18 - Hentais.[COLOR red]===[/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR red] Sejam Bem vindos ao ADDON THE ARES ADULTOS [/COLOR]</info>
+<externallink>https://github.com/addonfenix01/AddonAres02-18/blob/main/filmeshentais%2B18.xml</externallink>
+</channel>
+
+
 
 </channels>
